@@ -2,7 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { LanguageProvider } from './components/LanguageContext';
-import Equipment from './components/Equipment';  // Updated import statement
+import Equipment from './components/Equipment'; 
 import Navbar from './components/Nav';
 import {
   CustomerReviews,
@@ -16,7 +16,7 @@ import {
 } from "./sections";
 import ProductList from './components/ProductsList';
 import Contact from './components/Contact';
-import MyForm from './components/formTest';
+import MyForm from './components/FormTest';
 import BgVid from './components/BgVid/BgVid';
 import ScrollToTop from './components/ScrollToTop'; 
 import GearSection from './sections/Gear';
