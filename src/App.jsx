@@ -24,7 +24,7 @@ import GearSection from './sections/Gear';
 const Home = () => (
   <main className='relative'>
     <Helmet>
-      <title>Khatra Café</title>
+      <title>Café Khatra</title>
       <meta
         name="description"
         content="Khatra Café propose des produits de café premium et des accessoires de qualité pour les amateurs de café. Découvrez nos mélanges populaires, nos équipements et nos offres spéciales."
